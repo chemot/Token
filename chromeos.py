@@ -4,7 +4,7 @@ from thrift.transport import THttpClient
 from ttypes import LoginRequest
 import json, requests, LineService
 
-nama = 'PrankBots-Pc-CHROMEOS'
+nama = 'SEPRI_PC_CHROMEOS'
 Headers = {
         'User-Agent': "Line/8.3.2",
         'X-Line-Application': "CHROMEOS\t8.3.2\t"+nama+"\t10.0.0",
