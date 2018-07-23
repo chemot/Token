@@ -4,7 +4,7 @@ from thrift.transport import THttpClient
 from ttypes import LoginRequest
 import json, requests, LineService
 
-nama = 'PrankBots-Pc-DesktopMac'
+nama = 'Sepri_PC_DesktopMac'
 Headers = {
         'User-Agent': "Line/8.3.2",
         'X-Line-Application': "DESKTOPMAC\t8.3.2\t"+nama+"\t10.0.0",
